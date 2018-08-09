@@ -1,6 +1,6 @@
 def your_favorite_word
 your_favorite_word = "Oh_my_god!" 
-end 
+ end 
 puts "My favorite word is # {"your_favorite_word"}" 
  
 def your_favorite_word
