@@ -3,7 +3,7 @@ your_favorite_word = "Oh_my_god!"
 end 
 puts "My favorite word is # {"your_favorite_word"}" 
  
-
+def your_favorite_word
 your_favorite_word = "Oh_my_god".upcase  
 end 
 puts "MY_FAVORITE_WORD_IN_ALL_CAPS_IS # {"your_favorite_word"}"
