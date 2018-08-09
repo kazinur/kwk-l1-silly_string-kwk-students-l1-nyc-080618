@@ -1,7 +1,7 @@
 def your_favorite_word
 your_favorite_word = "Oh_my_god!" 
  end 
-puts "My favorite word is # {"your_favorite_word"}" 
+puts "My favorite word is #{"your_favorite_word"}" 
  
 def your_favorite_word
 your_favorite_word = "Oh_my_god".upcase  
