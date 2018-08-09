@@ -39,3 +39,4 @@ puts "# {"proper_sentence"}"
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!" 
 end 
 puts "# {"sentence"}".swapcase 
+<p data-visibility='hidden'>KWK-L1 Silly String</p> 
